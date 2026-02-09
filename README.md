@@ -15,8 +15,7 @@ I'm passionate about building secure, scalable, and privacy-preserving applicati
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Zero Knowledge](https://img.shields.io/badge/Zero%20Knowledge-Proofs-blueviolet?style=for-the-badge)
-![Writing](https://img.shields.io/badge/Technical%20Writing-Expert-green?style=for-the-badge)
+
 
 - **Solidity** — Smart contracts, EIP standards (especially EIP-2535 Diamonds), DeFi protocols
 - **Rust** — High-performance blockchain components, Substrate/Polkadot, zk-SNARK circuits **+ backend development** (REST/GraphQL APIs, web servers, relayers, indexers, off-chain services using frameworks like Axum, Actix, or Rocket)
